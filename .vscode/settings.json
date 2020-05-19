@@ -3,5 +3,9 @@
         "activityBar.background": "#2A300C",
         "titleBar.activeBackground": "#3A4411",
         "titleBar.activeForeground": "#F9FBEF"
-    }
+    },
+    "cSpell.words": [
+        "dewpoint",
+        "feelslike"
+    ]
 }
