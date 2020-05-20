@@ -2,7 +2,7 @@ const config = new Config
 
 class Weather {
     constructor(city, country) {
-        this.apiKey = config.apiKey;
+        this.apiKey = MyApiKey;
         this.city = city;
         this.country = country;
     }
