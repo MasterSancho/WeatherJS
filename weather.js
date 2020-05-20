@@ -1,5 +1,3 @@
-const config = new Config
-
 class Weather {
     constructor(city, country) {
         this.apiKey = MyApiKey;
